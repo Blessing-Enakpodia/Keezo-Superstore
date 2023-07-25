@@ -1,7 +1,7 @@
 # Keezo-Superstore Sales Data Analysis with Excel
 
 ## Introduction
-Keezo is a fictitious company ....
+Keezo superstore is a fictitious retail store.
 
 ## Problem statement
 Keezo superstores aims to gain valuable insights into its sales and financial performance to make informed business decisions. The store requires an in-depth analysis of various key metrics to evaluate its revenue, profit, and sales across different segments and regions. To achieve this, the store seeks answers to the following questions:
