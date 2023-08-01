@@ -27,7 +27,7 @@ Keezo superstores aims to gain valuable insights into its sales and financial pe
 
 Keezo Superstore expects comprehensive answers to these questions to gain a comprehensive understanding of its sales performance, profitability, and customer segments, enabling data-driven decision-making and improved business outcomes.
 
-## Skills Demonstrated:
+## Skills Demonstrated
 
 To effectively address the business question and derive meaningful insights, proficiency in the following excel functions and tools were demonstrated throughout the analysis; _SUM, SUMIF, SUMIFS, AVERAGE, AVERAGEIF, AVERAGEIFS, COUNT, COUNTA, COUNTIF, COUNTIFS, IF, IFS, MAX, MIN, and VLOOKUP_.
 
